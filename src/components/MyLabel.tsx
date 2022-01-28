@@ -44,7 +44,3 @@ export const MyLabel = ( {
         </span>
     );
 };
-
-
-// CustomFontColor
-// fontColor
